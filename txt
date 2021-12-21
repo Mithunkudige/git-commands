@@ -1,0 +1,47 @@
+Code review commands 
+
+after commit  
+
+git bash 
+
+git push origin HEAD:refs/for/master     
+
+git.volvo.com 
+
+got to git -> changes -> click on review -> submit. 
+
+ 
+
+To Reset 
+
+git reset HEAD~1  
+
+git reset --mixed origin/master = for merge issues  
+
+ 
+
+To Push from cmd 
+
+git status 
+
+git add --all or git add 'file 1' 'file 2' 'folder/' 
+
+git commit -m "comments" --no-verify  
+
+git push  /  git push origin master 
+
+ 
+
+ 
+
+Kill all node process   
+
+Command prompt > taskkill /f /im node.exe 
+
+ 
+
+ 
+
+Remove Host file 
+
+rm -f ~/.ssh/known_hosts 
