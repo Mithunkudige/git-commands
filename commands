@@ -30,16 +30,10 @@ git commit -m "comments" --no-verify
 
 git push  /  git push origin master 
 
- 
-
- 
 
 Kill all node process   
 
 Command prompt > taskkill /f /im node.exe 
-
- 
-
  
 
 Remove Host file 
